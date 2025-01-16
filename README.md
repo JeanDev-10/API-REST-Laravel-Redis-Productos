@@ -59,7 +59,7 @@ Este proyecto es un CRUD de productos desarrollado con Laravel y utilizando Lara
 
 ## Tecnologías Utilizadas
 
-- Laravel 10
+- Laravel 11
 - Laravel Sail
 - MySQL
 - Redis
